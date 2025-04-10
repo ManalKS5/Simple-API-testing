@@ -31,7 +31,7 @@ It uses **RestAssured**, **TestNG**, and **Maven** with a structured framework t
 
 ### 1. Clone the repo
 ```bash
-
+git clone https://github.com/ManalKS5/Simple-API-testing.git
 ```
 ### 2. Run the tests
 

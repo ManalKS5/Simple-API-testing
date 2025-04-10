@@ -47,6 +47,19 @@ Set the base URL in src/test/resources/config.properties:
 baseUrl=https://reqres.in
 ```
 
+## 🧩 Dependencies Used
+
+This project uses the following key dependencies:
+
+- [RestAssured](https://rest-assured.io/) – API testing
+- [TestNG](https://testng.org/doc/) – Test framework
+- [Jackson](https://github.com/FasterXML/jackson) – JSON serialization
+- [JSON Schema Validator](https://github.com/rest-assured/rest-assured/wiki/Usage#json-schema-validation) – Schema validation
+- [Maven](https://maven.apache.org/) – Dependency & build management
+
+You can find all dependencies in the `pom.xml` file.
+
+
 ###  Author
 Manal Sewaied
 
